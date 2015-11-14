@@ -1,0 +1,51 @@
+#main-container {
+	height: 800px;
+	width: 1100px;
+	margin: auto;
+	padding-top: 5px;
+}
+#banner {
+	height: 150px;
+	width: 1100px;
+	border: solid;
+	border-bottom: none;
+}
+#container {
+	width: 1100px;
+	height: 630px;
+	border: solid
+
+}
+#footer {
+	height: 20px;
+	width: 1100px;
+	border: solid ;
+	border-top: none;
+}
+#menu {
+	height: 45px;
+	width: 1095px;
+	border-bottom: solid;
+	background-color: #0072C5;
+}
+#inner-container {
+	width: 1095px;
+	height: 580px;
+
+}
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+#inner-container {
+	background-color: #808080;
+}
+#footer{
+	background-color: black;
+}
+#copyright {
+	padding-left: 4px;
+	color: white;
+}
+#inner-container {
+	padding: 4px;
+}
